@@ -1,0 +1,14 @@
+[
+    {
+        "username":"18811327591",
+        "password":"sqs8911382",
+        "date":"2017-10-23",            
+        "hospitalId":"142",      
+        "departmentId":"200039542",
+        "dutyCode":"1",
+        "patientName":"尚琦淞",
+        "doctorName":"李志刚",
+
+        "DebugLevel":"info"
+    }
+]
